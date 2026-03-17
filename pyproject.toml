@@ -6,5 +6,7 @@ requires-python = ">=3.10"
 dependencies = [
     "python-dotenv",
     "langchain",
-    "langchain-anthropic"
+    "langchain-anthropic",
+    "langgraph",
+    "ipython",
 ]
