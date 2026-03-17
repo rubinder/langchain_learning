@@ -78,7 +78,7 @@ app = graph.compile()
 
 display(Image(app.get_graph().draw_mermaid_png()))
 
-
+## 6. save graph
 import os
 os.makedirs("output", exist_ok=True)
 with open("output/grade_calculator.png", "wb") as f:

@@ -9,4 +9,6 @@ dependencies = [
     "langchain-anthropic",
     "langgraph",
     "ipython",
+    "langchain-litellm>=0.6.1",
+    "rich>=14.3.3",
 ]
