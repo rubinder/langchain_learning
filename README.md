@@ -1,2 +1,2 @@
-aaa
+repo for learning langchain
 
